@@ -13,4 +13,4 @@ Code Challenge - Mural de mensagens
 - React + Apollo Client
 
 ## Regras de negócio
--
+- [] O usuario nao pode deletar comentario de outro usuario

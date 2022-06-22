@@ -1,0 +1,10 @@
+{
+  "type": "sqlite",
+  "database": "data/challenge.db",
+  "migrations": ["src/db/migrations/*.ts"],
+  "entities": ["src/db/entities*.ts"],
+  "cli": {
+    "migrationsDir": "src/db/migrations",
+    "entitiesDir": "src/db/models"
+  }
+}
